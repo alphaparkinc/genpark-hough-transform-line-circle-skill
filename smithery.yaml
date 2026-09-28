@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-hough-transform-line-circle-skill
+name: genpark-hough-transform-line-circle-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
